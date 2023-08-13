@@ -1,14 +1,9 @@
-# Expo Router Example
+# A simple mobile app which shows different jobs
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+# home page
 
-## 🚀 How to use
+![](https://raw.githubusercontent.com/ankush109/job_search_reactnative/main/assets/1.jpeg)
 
-```sh
-npx create-expo-app -e with-router
-```
+# specific page
 
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+![](https://raw.githubusercontent.com/ankush109/job_search_reactnative/main/assets/2.jpeg)
